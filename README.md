@@ -89,17 +89,17 @@ IPv6 Toolbox is a cross-platform application built on **Kotlin Multiplatform** a
 
 > ⚠️ Current version is in development (v0.1.0-SNAPSHOT), pre-built binaries not yet available
 
-- [ ] Android APK - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
-- [ ] Windows MSI - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
-- [ ] macOS DMG - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
-- [ ] Linux DEB/RPM - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
+- [ ] Android APK - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
+- [ ] Windows MSI - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
+- [ ] macOS DMG - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
+- [ ] Linux DEB/RPM - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
 - [ ] iOS IPA - via TestFlight
 
 #### Build from Source
 
 ```bash
 # Clone repository
-git clone https://github.com/qiyuey/ipv6-toolbox.git
+git clone https://github.com/yuchuanbj/ipv6-toolbox.git
 cd ipv6-toolbox
 
 # Android
@@ -263,8 +263,8 @@ By using this software, you agree to comply with both licenses.
 
 ## 📞 Contact
 
-- **Bug Reports**: [GitHub Issues](https://github.com/qiyuey/ipv6-toolbox/issues)
-- **Feature Requests**: [GitHub Discussions](https://github.com/qiyuey/ipv6-toolbox/discussions)
+- **Bug Reports**: [GitHub Issues](https://github.com/yuchuanbj/ipv6-toolbox/issues)
+- **Feature Requests**: [GitHub Discussions](https://github.com/yuchuanbj/ipv6-toolbox/discussions)
 
 ---
 
@@ -283,6 +283,6 @@ If this project helps you, please consider:
 
 **Built with ❤️ for a better IPv6 networking experience**
 
-[Homepage](https://github.com/qiyuey/ipv6-toolbox) • [Documentation](docs/) • [Changelog](CHANGELOG.md)
+[Homepage](https://github.com/yuchuanbj/ipv6-toolbox) • [Documentation](docs/) • [Changelog](CHANGELOG.md)
 
 </div>

@@ -132,5 +132,5 @@
 
 ---
 
-[未发布]: https://github.com/qiyuey/ipv6-toolbox/compare/v0.1.0...HEAD
-[0.1.0-SNAPSHOT]: https://github.com/qiyuey/ipv6-toolbox/releases/tag/v0.1.0
+[未发布]: https://github.com/yuchuanbj/ipv6-toolbox/compare/v0.1.0...HEAD
+[0.1.0-SNAPSHOT]: https://github.com/yuchuanbj/ipv6-toolbox/releases/tag/v0.1.0

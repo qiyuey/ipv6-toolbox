@@ -87,17 +87,17 @@ IPv6 工具箱是一个基于 **Kotlin Multiplatform** 和 **Compose Multiplatfo
 
 > ⚠️ 当前版本处于开发阶段 (v0.1.0-SNAPSHOT)，暂未提供预编译版本
 
-- [ ] Android APK - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
-- [ ] Windows MSI - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
-- [ ] macOS DMG - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
-- [ ] Linux DEB/RPM - [GitHub Releases](https://github.com/qiyuey/ipv6-toolbox/releases)
+- [ ] Android APK - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
+- [ ] Windows MSI - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
+- [ ] macOS DMG - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
+- [ ] Linux DEB/RPM - [GitHub Releases](https://github.com/yuchuanbj/ipv6-toolbox/releases)
 - [ ] iOS IPA - 通过 TestFlight
 
 #### 从源码构建
 
 ```bash
 # 克隆仓库
-git clone https://github.com/qiyuey/ipv6-toolbox.git
+git clone https://github.com/yuchuanbj/ipv6-toolbox.git
 cd ipv6-toolbox
 
 # Android
@@ -261,8 +261,8 @@ Copyright (c) 2025 qiyuey
 
 ## 📞 联系方式
 
-- **问题反馈**: [GitHub Issues](https://github.com/qiyuey/ipv6-toolbox/issues)
-- **功能建议**: [GitHub Discussions](https://github.com/qiyuey/ipv6-toolbox/discussions)
+- **问题反馈**: [GitHub Issues](https://github.com/yuchuanbj/ipv6-toolbox/issues)
+- **功能建议**: [GitHub Discussions](https://github.com/yuchuanbj/ipv6-toolbox/discussions)
 
 ---
 
@@ -281,6 +281,6 @@ Copyright (c) 2025 qiyuey
 
 **用 ❤️ 构建，为了更好的 IPv6 网络体验**
 
-[主页](https://github.com/qiyuey/ipv6-toolbox) • [文档](docs/) • [更新日志](CHANGELOG.md)
+[主页](https://github.com/yuchuanbj/ipv6-toolbox) • [文档](docs/) • [更新日志](CHANGELOG.md)
 
 </div>
