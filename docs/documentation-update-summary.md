@@ -21,7 +21,7 @@
 
 **面向对象**: 最终用户、潜在贡献者
 
-**参考样式**: [bing-wallpaper-now](https://github.com/yuchuanbj/bing-wallpaper-now)
+**参考样式**: [bing-wallpaper-now](https://github.com/qiyuey/bing-wallpaper-now)
 
 **特点**:
 - 使用徽章展示技术栈
@@ -227,7 +227,7 @@
 ## 📚 文档参考
 
 ### 风格参考
-- [bing-wallpaper-now](https://github.com/yuchuanbj/bing-wallpaper-now) - README 排版和徽章
+- [bing-wallpaper-now](https://github.com/qiyuey/bing-wallpaper-now) - README 排版和徽章
 - [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) - 技术文档风格
 - [Material Design](https://m3.material.io/) - 组件文档
 

@@ -22,7 +22,7 @@
 ### 报告 Bug 🐛
 
 在提交 Bug 报告前，请：
-1. 检查 [已有 Issues](https://github.com/yuchuanbj/ipv6-toolbox/issues) 避免重复
+1. 检查 [已有 Issues](https://github.com/qiyuey/ipv6-toolbox/issues) 避免重复
 2. 使用最新版本测试问题是否仍然存在
 
 **好的 Bug 报告应包含：**
@@ -90,7 +90,7 @@
 
 2. **设置上游仓库**
    ```bash
-   git remote add upstream https://github.com/yuchuanbj/ipv6-toolbox.git
+   git remote add upstream https://github.com/qiyuey/ipv6-toolbox.git
    ```
 
 3. **安装依赖**
@@ -279,8 +279,8 @@ class FeatureTest {
 
 ## 社区
 
-- **GitHub Issues**: [问题跟踪](https://github.com/yuchuanbj/ipv6-toolbox/issues)
-- **GitHub Discussions**: [讨论区](https://github.com/yuchuanbj/ipv6-toolbox/discussions)
+- **GitHub Issues**: [问题跟踪](https://github.com/qiyuey/ipv6-toolbox/issues)
+- **GitHub Discussions**: [讨论区](https://github.com/qiyuey/ipv6-toolbox/discussions)
 
 ---
 
@@ -289,8 +289,8 @@ class FeatureTest {
 如果你在贡献过程中遇到问题：
 
 1. 查看 [文档](docs/)
-2. 搜索 [已有 Issues](https://github.com/yuchuanbj/ipv6-toolbox/issues)
-3. 在 [Discussions](https://github.com/yuchuanbj/ipv6-toolbox/discussions) 提问
+2. 搜索 [已有 Issues](https://github.com/qiyuey/ipv6-toolbox/issues)
+3. 在 [Discussions](https://github.com/qiyuey/ipv6-toolbox/discussions) 提问
 
 ---
 
@@ -304,7 +304,7 @@ class FeatureTest {
 
 感谢所有贡献者！你们的努力让这个项目变得更好。
 
-[![Contributors](https://contrib.rocks/image?repo=qiyuey/ipv6-toolbox)](https://github.com/yuchuanbj/ipv6-toolbox/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=qiyuey/ipv6-toolbox)](https://github.com/qiyuey/ipv6-toolbox/graphs/contributors)
 
 ---
 
