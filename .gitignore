@@ -1,0 +1,79 @@
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+*.sw[op]
+
+# Android
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+local.properties
+captures/
+.externalNativeBuild
+.cxx
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+
+# macOS
+.DS_Store
+*.swp
+*~.nib
+
+# iOS
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+*.xcworkspace
+!default.xcworkspace
+
+# Kotlin Multiplatform
+.kotlin/
+kotlin-js-store/
+
+# Compose
+.compose/
+
+# Build outputs
+composeApp/build/
+iosApp/build/
+
+# Local configuration
+gradle.properties
+
+# Logs
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs
+hs_err_pid*
