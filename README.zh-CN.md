@@ -100,12 +100,16 @@ IPv6 工具箱是一个基于 **Kotlin Multiplatform** 和 **Compose Multiplatfo
 git clone https://github.com/yuchuanbj/ipv6-toolbox.git
 cd ipv6-toolbox
 
-# Android
-./gradlew :composeApp:assembleDebug
-# APK 位置: composeApp/build/outputs/apk/debug/
+# 使用 Make（推荐）
+make run              # 运行桌面应用
+make build            # 构建所有平台
+make test             # 运行测试
+make android          # 构建 Android APK
 
-# Desktop (JVM)
-./gradlew :composeApp:run
+# 或直接使用 Gradle
+./gradlew :composeApp:run              # 桌面应用
+./gradlew :composeApp:assembleDebug    # Android APK
+./gradlew test                         # 测试
 
 # iOS (需要在 macOS 上)
 open iosApp/iosApp.xcodeproj

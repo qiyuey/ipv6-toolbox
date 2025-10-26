@@ -102,12 +102,17 @@ IPv6 Toolbox is a cross-platform application built on **Kotlin Multiplatform** a
 git clone https://github.com/yuchuanbj/ipv6-toolbox.git
 cd ipv6-toolbox
 
-# Android
-./gradlew :composeApp:assembleDebug
-# APK location: composeApp/build/outputs/apk/debug/
+# Using Make (recommended)
+make desktop          # Run desktop app
+make android          # Build Android APK
+make ios              # Build iOS app (macOS only)
+make build            # Build all platforms
+make test             # Run tests
 
-# Desktop (JVM)
-./gradlew :composeApp:run
+# Or using Gradle directly
+./gradlew :composeApp:run              # Desktop
+./gradlew :composeApp:assembleDebug    # Android APK
+./gradlew test                         # Tests
 
 # iOS (requires macOS)
 open iosApp/iosApp.xcodeproj
